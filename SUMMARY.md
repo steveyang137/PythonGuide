@@ -44,7 +44,7 @@
 * [脚本式编程](python-jie-shi-qi/jiao-ben-shi-bian-cheng.md)
 * [扩展知识](python-jie-shi-qi/kuo-zhan-zhi-shi.md)
 
-## 一些能让你写代码省点事的东西
+## 一些能让你写代码省点事的东西 <a id="shi-yong-ji-qiao"></a>
 
 * [Python函数基础](yi-xie-neng-rang-ni-xie-dai-ma-sheng-dian-shi-de-dong-xi/python-han-shu.md)
 
