@@ -4,7 +4,7 @@ description: By RICE
 
 # 配置python环境
 
-首先我们要先移步https://python.org，下载Python：![](https://pic1.zhimg.com/80/v2-665e04bf3906603be7532048927f4688_1440w.jpg)
+首先我们要先移步[https://python.org，下载Python：!\[\]\(https://pic1.zhimg.com/80/v2-665e04bf3906603be7532048927f4688\_1440w.jpg](https://python.org，下载Python：![]%28https://pic1.zhimg.com/80/v2-665e04bf3906603be7532048927f4688_1440w.jpg)\)
 
 随后，我们把鼠标移动到Downloads上面，就会发现有不同平台的Python供我们下载：![](https://pic4.zhimg.com/80/v2-fd3135d965479d9a5d38e018c9ef3627_1440w.jpg)
 

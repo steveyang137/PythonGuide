@@ -46,5 +46,5 @@
 
 ## 一些能让你写代码省点事的东西 <a id="shi-yong-ji-qiao"></a>
 
-* [Python函数基础](yi-xie-neng-rang-ni-xie-dai-ma-sheng-dian-shi-de-dong-xi/python-han-shu.md)
+* [Python函数基础](shi-yong-ji-qiao/python-han-shu-ji-chu.md)
 

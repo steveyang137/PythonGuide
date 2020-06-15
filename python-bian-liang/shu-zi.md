@@ -4,8 +4,6 @@ description: By runoob
 
 # 数字
 
-
-
 Python3 支持 **int、float、bool、complex（复数）**。
 
 在Python 3里，只有一种整数类型 int，表示为长整型，没有 python2 中的 Long。
@@ -22,7 +20,7 @@ Python3 支持 **int、float、bool、complex（复数）**。
 
 此外还可以用 isinstance 来判断：
 
-### 实例
+## 实例
 
 ```text
 >>> a = 111

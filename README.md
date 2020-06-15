@@ -6,7 +6,7 @@ description: TECHSTACK全体队员
 
 此gitbook由steveyang137、FangziOMG和RICE编写，
 
-有些由队员搬运自https://www.runoob.com/
+有些由队员搬运自[https://www.runoob.com/](https://www.runoob.com/)
 
 我们是真心希望您能通过这本书学会如何使用Python来完成日常的编程需求，如果您是一位编程爱好者，那么我相信这本书对您来说已经够了。Python属实是个好东西，它虽然不是最强大的编程语言，但一定是最精简的（别跟我提EV3和scratch，你懂的），如果你想要入门编程，那么Python一定可以成为你的首选，因为这门语言十分精简和方便，有着非常周全的处理方法，只要你学好这门语言，你就无需担心一些别的繁琐问题。Python有着强大的逻辑系统，可以满足日常的计算，简单的图形化用户界面（程序界面美化）甚至强大的"库"几乎可以做到任何您能想到的奇葩操作，平时用Python炫耀一下也是很好的选择。
 
@@ -19,3 +19,4 @@ description: TECHSTACK全体队员
 我们希望，用编程改变每个人的命运。
 
 ——TECHSTACK
+

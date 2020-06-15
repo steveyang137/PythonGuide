@@ -16,7 +16,5 @@ PyCharm这款编辑器我还是非常推荐的，毕竟是JetBrains大厂出品�
 
 ![PyCharm for Mac](https://pic1.zhimg.com/80/v2-319da4d9efd9298d6e42aa56b942f704_1440w.jpg)
 
-
-
 ![PyCharm for Windows](https://pic3.zhimg.com/80/v2-3bee3c5f773448c0f5d1dea45793995e_1440w.jpg)
 
